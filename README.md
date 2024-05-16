@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
+modifier via l’interface web de GitHub le fichier README.md (avec un texte différent de la modification locale) ;
 
 ```
 
